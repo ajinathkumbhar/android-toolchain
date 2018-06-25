@@ -1,2 +1,2 @@
 # android-toolchain
-Android tool-chain
+Android tool-chain from ndk
