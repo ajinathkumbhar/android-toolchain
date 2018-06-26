@@ -31,5 +31,6 @@ Mon Jun 25 22:36:16 IST 2018          - Add android native toolchain ndk-version
 e.g arm64
 
 cd toolchain-r16b-arm64
+
 source envsetup.sh
 
